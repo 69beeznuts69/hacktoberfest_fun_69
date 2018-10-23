@@ -1,0 +1,4 @@
+#include<stdio.h>
+int main(){
+  printf("0000000001 = 1 in decimal number system ");
+}
